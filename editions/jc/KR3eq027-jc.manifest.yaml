@@ -1,0 +1,494 @@
+canonical_identifier: bkk:krp/KR3eq027/jc/v1
+canonical_location: https://kanripo.org/bkk/KR3eq027/jc/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 格致餘論
+  identifiers:
+    krp: KR3eq027
+  tags:
+    kr-categories: KR3eq
+    tls-dates: dat04310
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eq027.xml
+  edition:
+    short: jc
+assets:
+  parts:
+  - {seq: 0, filename: KR3eq027_000-jc.yaml, hash: 'sha256:97a0291b889442d024ff171915ae6dcdb2606523e71afb9b38cac7b9823a2bb0'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eq027_000-jc.markers.yaml, hash: 'sha256:ebc53f48915972748dfec8c134f3d6f3b053b07a23a59e94b9dbc0c7ffe7d5f9'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d2.h1s1
+    span:
+    - front
+    - 0
+    - 502
+  label: 序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d3.h1s1
+    span:
+    - front
+    - 502
+    - 877
+  label: 飲食色欲箴序
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d3d4
+    span:
+    - front
+    - 583
+    - 730
+  label: 飲食箴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d3d5
+    span:
+    - front
+    - 730
+    - 877
+  label: 色欲箴
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d4.h1s1
+    span:
+    - body
+    - 0
+    - 875
+  label: 陽有餘陰不足論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d5.h1s1
+    span:
+    - body
+    - 875
+    - 1385
+  label: 治病必求其本論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d6.h1s1
+    span:
+    - body
+    - 1385
+    - 1823
+  label: 澀脈論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d7.h1s1
+    span:
+    - body
+    - 1823
+    - 3107
+  label: 養老論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d8.h1s1
+    span:
+    - body
+    - 3107
+    - 3905
+  label: 慈幼論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d9.h1s1
+    span:
+    - body
+    - 3905
+    - 4347
+  label: 夏月伏陰在內論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d10.h1s1
+    span:
+    - body
+    - 4347
+    - 5328
+  label: 豆瘡陳氏方論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d11.h1s1
+    span:
+    - body
+    - 5328
+    - 5875
+  label: 痛風論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d12.h1s1
+    span:
+    - body
+    - 5875
+    - 6663
+  label: 痎瘧論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d13.h1s1
+    span:
+    - body
+    - 6663
+    - 7329
+  label: 病邪雖實胃氣傷者勿使攻擊論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d14.h1s1
+    span:
+    - body
+    - 7329
+    - 7795
+  label: 治病先觀形色然後察脈問證論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d15.h1s1
+    span:
+    - body
+    - 7795
+    - 8201
+  label: 大病不守禁忌論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d16.h1s1
+    span:
+    - body
+    - 8201
+    - 8822
+  label: 虛病痰病有似邪祟論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d17.h1s1
+    span:
+    - body
+    - 8822
+    - 8998
+  label: 面鼻得冷則黑論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d18.h1s1
+    span:
+    - body
+    - 8998
+    - 9175
+  label: 胎自墮論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d19.h1s1
+    span:
+    - body
+    - 9175
+    - 9413
+  label: 難產論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d20.h1s1
+    span:
+    - body
+    - 9413
+    - 9563
+  label: 難產胞損淋瀝論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d21.h1s1
+    span:
+    - body
+    - 9563
+    - 9832
+  label: 胎婦轉胞病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d22.h1s1
+    span:
+    - body
+    - 9832
+    - 10209
+  label: 乳硬論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d23.h1s1
+    span:
+    - body
+    - 10209
+    - 10623
+  label: 受胎論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d24.h1s1
+    span:
+    - body
+    - 10623
+    - 10801
+  label: 人迎氣口論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d25.h1s1
+    span:
+    - body
+    - 10801
+    - 11144
+  label: 春宣論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d26.h1s1
+    span:
+    - body
+    - 11144
+    - 11544
+  label: 醇酒宜冷飲論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d27.h1s1
+    span:
+    - body
+    - 11544
+    - 12100
+  label: 癰疽當分經絡論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d28.h1s1
+    span:
+    - body
+    - 12100
+    - 12469
+  label: 脾約丸論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d29.h1s1
+    span:
+    - body
+    - 12469
+    - 13377
+  label: 鼓脹論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d30.h1s1
+    span:
+    - body
+    - 13377
+    - 13754
+  label: 疝氣論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d31.h1s1
+    span:
+    - body
+    - 13754
+    - 14266
+  label: 秦桂丸論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d32.h1s1
+    span:
+    - body
+    - 14266
+    - 14857
+  label: 惡寒非寒病惡熱非熱病論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d33.h1s1
+    span:
+    - body
+    - 14857
+    - 15118
+  label: 經水或紫或黑論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d34.h1s1
+    span:
+    - body
+    - 15118
+    - 15426
+  label: 石膏論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d35.h1s1
+    span:
+    - body
+    - 15426
+    - 15532
+  label: 脈大必病進論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d36.h1s1
+    span:
+    - body
+    - 15532
+    - 16264
+  label: 生氣通天論病因章句辯
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d36d4
+    span:
+    - body
+    - 16126
+    - 16201
+  label: 太僕章句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d36d5
+    span:
+    - body
+    - 16201
+    - 16264
+  label: 新定章句
+  type: section
+  level: 2
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d37.h1s1
+    span:
+    - body
+    - 16264
+    - 17260
+  label: 倒倉論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d38.h1s1
+    span:
+    - body
+    - 17260
+    - 18287
+  label: 相火論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d39.h1s1
+    span:
+    - body
+    - 18287
+    - 18691
+  label: 左大順男右大順女論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d40.h1s1
+    span:
+    - body
+    - 18691
+    - 19278
+  label: 茹淡論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d41.h1s1
+    span:
+    - body
+    - 19278
+    - 19932
+  label: 吃逆論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d42.h1s1
+    span:
+    - body
+    - 19932
+    - 20285
+  label: 房中補益論
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d43.h1s1
+    span:
+    - body
+    - 20285
+    - 20557
+  label: 天氣屬金說
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eq027_jc_000-d44.h1s1
+    span:
+    - body
+    - 20557
+    - 21384
+  label: 張子和攻擊注論
+  type: section
+  level: 1
+hash: sha256:4f9779b5cd7ca37d41f4671aa5dced9e7950b545c82c934c57bef6aec731e0b9
