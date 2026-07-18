@@ -19,7 +19,7 @@ assets:
   parts:
   - {seq: 0, filename: KR3eq027_000-jc.yaml, hash: 'sha256:97a0291b889442d024ff171915ae6dcdb2606523e71afb9b38cac7b9823a2bb0'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR3eq027_000-jc.markers.yaml, hash: 'sha256:ebc53f48915972748dfec8c134f3d6f3b053b07a23a59e94b9dbc0c7ffe7d5f9'}
+  - {seq: 0, role: markers, filename: assets/KR3eq027_000-jc.markers.yaml, hash: 'sha256:d957a7ec56ee8ae2d00182af02e22941a53fda43cb0031f86ed42b604a582fd8'}
 table_of_contents:
 - ref:
     seq: 0
@@ -491,4 +491,4 @@ table_of_contents:
   label: 張子和攻擊注論
   type: section
   level: 1
-hash: sha256:4f9779b5cd7ca37d41f4671aa5dced9e7950b545c82c934c57bef6aec731e0b9
+hash: sha256:532c9088823bc8b884cf44cc088edcad3259da723d84216adb65d2d085b5a541
